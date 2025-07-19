@@ -1,37 +1,30 @@
-📊 Data Science Internship Tasks – DevelopersHub Corporation
-This repository contains solutions to all 5 advanced tasks completed during my Data Science & AI/ML Engineering Internship at DevelopersHub Corporation.
+# 📊 Data Science & AI/ML Internship Tasks
 
-Each task focuses on real-world applications using Python, covering areas like:
+---
 
-✅ Classification & Model Explainability
+This repository contains my submission for 5 advanced-level tasks as part of the Data Science & AI/ML Internship at DevelopersHub Corporation. All tasks are implemented using Python with libraries like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, SHAP, Prophet, and Streamlit.
 
-✅ Customer Segmentation (Clustering)
+---
 
-✅ Time Series Forecasting
+## ✅ Task List
+Task	Title	Type
+1	Term Deposit Subscription Prediction	Classification + XAI
+2	Customer Segmentation	Clustering
+3	Energy Consumption Forecasting	Time Series Forecasting
+4	Loan Default Risk Optimization	Classification + Cost
+5	Streamlit Business Dashboard	Business Intelligence
 
-✅ Risk Prediction with Cost Optimization
+---
 
-✅ Business Intelligence Dashboards (Streamlit)
 
-🧠 Tools & Libraries
-pandas, numpy, matplotlib, seaborn
+## 📂 Files Included
 
-scikit-learn, xgboost, shap, Prophet, Streamlit
+Task1-Term_Deposit_Prediction.ipynb
 
-📁 Tasks Overview
-Task	Topic	Key Focus
-1	Term Deposit Prediction	Classification, SHAP
-2	Customer Segmentation	K-Means, PCA
-3	Energy Forecasting	ARIMA, Prophet
-4	Loan Default Risk	Cost-sensitive Modeling
-5	Streamlit Dashboard	KPI Visualization
+Task2-Customer_Segmentation.ipynb
 
-📂 Structure
-Each folder includes:
+Task3-Energy_Forecasting.ipynb
 
-Jupyter Notebook
+Task4-Loan_Default_Risk.ipynb
 
-Visualizations
-
-Code and insights
-
+Task5-Streamlit_Dashboard/ (contains code + app script)
